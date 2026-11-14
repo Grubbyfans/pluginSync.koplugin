@@ -1,0 +1,6 @@
+server/config.json
+server/.cache/
+.research/
+__pycache__/
+*.part
+dist/
